@@ -1,15 +1,15 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Enviamos para todo o Brasil"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Frete fixo de R$ 25,00 até dezembro/22."
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Não gostou? A primeira troca é gratuita em até sete dias úteis após o recebimento do produto."
   },
   "promo": {
     "show": true,
