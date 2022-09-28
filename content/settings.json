@@ -1,10 +1,10 @@
 {
   "domain": "coloratopapelaria.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "",
+  "primary_color": "#59e1e1",
   "theme": {
     "bootswatch": "journal",
-    "custom": "_"
+    "custom": "clean-gray"
   },
   "bg_color": "#febbfe",
   "logo": "/img/uploads/27499-logo.jpg",
