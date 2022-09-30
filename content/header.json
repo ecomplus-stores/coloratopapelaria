@@ -6,12 +6,7 @@
     "background": "#ffa9e4"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": ""
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
