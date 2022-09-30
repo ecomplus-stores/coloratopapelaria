@@ -7,7 +7,9 @@
   },
   "contacts_stripe": {
     "pages": [
-      {}
+      {
+        "title": "A Colorato nasceu no início de 2021 com a proposta de trazer produtos fofos, divertidos e coloridos para quem ama papelaria e quer ter materiais com mais cor e alegria em seus estudos, planos e rotina!"
+      }
     ],
     "phone_wpp": true,
     "socials": true
