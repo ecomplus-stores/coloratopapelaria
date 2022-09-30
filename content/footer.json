@@ -5,8 +5,10 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "title": "Condições de entrega",
+    "list": [
+      {}
+    ]
   },
   "links_2": {
     "list_categories": true,
