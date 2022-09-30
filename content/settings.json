@@ -1,7 +1,7 @@
 {
   "domain": "coloratopapelaria.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#59e1e1",
+  "primary_color": "#f4e9ed",
   "theme": {
     "bootswatch": "yeti",
     "custom": "niche-flowers"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/27499-logo.jpg",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#ffa9e4",
+  "secondary_color": "#8b4869",
   "icon": "/img/uploads/27499-logo.jpg",
   "store_id": 27499,
   "description": "Colorato Papelaria",
