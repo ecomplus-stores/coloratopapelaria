@@ -6,7 +6,9 @@
     "background": "#59e1e1"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {}
+    ],
     "phone_wpp": true,
     "socials": true
   },
