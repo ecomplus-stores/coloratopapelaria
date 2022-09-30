@@ -4,15 +4,15 @@
     "text": "Enviamos para todo o Brasil"
   },
   "installments": {
-    "show": true,
+    "show": false,
     "text": "Frete fixo de R$ 25,00 até dezembro/22."
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita em até 07 dias úteis após o recebimento do produto."
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
