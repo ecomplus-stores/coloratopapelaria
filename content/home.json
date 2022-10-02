@@ -36,13 +36,16 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/logo-bee-teste.png"
+        },
+        {
           "img": "/img/uploads/logo-stabilo.png"
         },
         {
-          "img": "/img/uploads/molin-logo.png"
+          "img": "/img/uploads/logo-buendia.png"
         },
         {
-          "img": "/img/uploads/logo-buendia.png"
+          "img": "/img/uploads/molin-logo.png"
         },
         {
           "img": "/img/uploads/logo-paper-mate-1.png"
@@ -52,9 +55,6 @@
         },
         {
           "img": "/img/uploads/logo-faber-castell-4096.png"
-        },
-        {
-          "img": "/img/uploads/logo-bee-teste.png"
         },
         {
           "img": "/img/uploads/logo-leo-e-leo.png"
