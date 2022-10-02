@@ -26,6 +26,11 @@
       "sort": "views",
       "headless": true,
       "collection_id": null
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     }
   ]
 }
