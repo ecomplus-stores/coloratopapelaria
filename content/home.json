@@ -24,7 +24,8 @@
       "limit": 6,
       "page": 8,
       "sort": "views",
-      "headless": true
+      "headless": true,
+      "collection_id": "61da08700c7c727225faef08:categories:Marcadores:/marcadores"
     }
   ]
 }
