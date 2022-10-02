@@ -6,7 +6,11 @@
     "background": "#ffa5f4"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "Páginas"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },
