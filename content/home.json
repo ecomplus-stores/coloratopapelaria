@@ -31,10 +31,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/rosa-papelaria-alfabetizacao-banner-para-canvas-1-.png"
     }
   ]
 }
