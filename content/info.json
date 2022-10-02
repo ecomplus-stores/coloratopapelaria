@@ -8,11 +8,11 @@
     "text": "Frete fixo de R$ 25,00 até dezembro/22."
   },
   "exchange": {
-    "show": false,
+    "show": true,
     "text": "Não gostou? A primeira troca é gratuita em até 07 dias úteis após o recebimento do produto."
   },
   "promo": {
-    "show": false,
+    "show": true,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
