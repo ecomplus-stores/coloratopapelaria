@@ -25,6 +25,12 @@
       "page": 6,
       "sort": "news",
       "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
