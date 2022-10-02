@@ -23,7 +23,7 @@
       "shuffle": true,
       "limit": 6,
       "page": 8,
-      "sort": "news",
+      "sort": "views",
       "headless": true
     }
   ]
