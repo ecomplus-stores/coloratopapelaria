@@ -1,12 +1,12 @@
 {
   "domain": "coloratopapelaria.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#f30893",
   "theme": {
     "bootswatch": "flatly",
     "custom": "niche-flowers"
   },
-  "bg_color": "#f0b8f0",
+  "bg_color": "#504f50",
   "logo": "/img/uploads/27499-logo.jpg",
   "name": "coloratopapelaria",
   "short_name": "Colorato Papelaria",
