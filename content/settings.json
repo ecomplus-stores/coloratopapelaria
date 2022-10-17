@@ -1,7 +1,7 @@
 {
   "domain": "coloratopapelaria.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#c00fc9",
   "theme": {
     "bootswatch": "flatly",
     "custom": "niche-flowers"
