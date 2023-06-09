@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.8bf0e03558f84940fde0e52f05d07e3d.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.fe5dbeb4aa2645de0831dd3ca04e2917.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.482bef3b99b79894c6254af3f8d93208.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.b6139e23e8f4136b5cecfe3508f8f30b.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.1fca8009b6f8e7b4bfb7505ed72b4ed1.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "coloratopapelaria",
+  "short_name": "Colorato Papelaria",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Colorato Papelaria",
+  "background_color": "#2f2e2f",
+  "theme_color": "#851658"
+}
