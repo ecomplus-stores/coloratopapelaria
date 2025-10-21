@@ -31,17 +31,17 @@ jobs:
         id: remote_repo
 
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
         with:
           ref: ${{ github.ref }}
 
       - name: Setup Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v6
         with:
-          node-version: '14.x'
+          node-version: '20.19.5'
 
       - name: Cache dependencies
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ~/.npm
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
@@ -59,7 +59,7 @@ jobs:
 
       - name: Cache output
         continue-on-error: true
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: .deploy/publish
           key: ${{ hashFiles('.bundles.json') }}-${{ hashFiles('template/p*/**') }}-${{ hashFiles('content/**') }}-${{ steps.isg_state.outputs.rand }}
@@ -68,7 +68,7 @@ jobs:
         run: npm ci --only=production
 
       - name: Check last changed files
-        uses: lots0logs/gh-action-get-changed-files@2.1.4
+        uses: lots0logs/gh-action-get-changed-files@2.2.2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
         id: changed_files
@@ -180,7 +180,7 @@ jobs:
       - name: Cache output force update
         if: steps.new_isg_state.outputs.rand != steps.isg_state.outputs.rand
         continue-on-error: true
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: .deploy/publish
           key: ${{ hashFiles('.bundles.json') }}-${{ hashFiles('template/p*/**') }}-${{ hashFiles('content/**') }}-${{ steps.new_isg_state.outputs.rand }}
